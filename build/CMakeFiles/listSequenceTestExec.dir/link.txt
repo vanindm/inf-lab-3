@@ -1,1 +1,0 @@
-/usr/bin/c++  -std=c++23 -Wall -g -Wl,--dependency-file=CMakeFiles/listSequenceTestExec.dir/link.d CMakeFiles/listSequenceTestExec.dir/src/listSequenceTest.cpp.o -o listSequenceTestExec

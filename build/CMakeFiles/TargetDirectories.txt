@@ -1,8 +1,0 @@
-/home/deeg05/coding/mephi/pads/lab2/build/CMakeFiles/arraySequenceTestExec.dir
-/home/deeg05/coding/mephi/pads/lab2/build/CMakeFiles/listSequenceTestExec.dir
-/home/deeg05/coding/mephi/pads/lab2/build/CMakeFiles/test.dir
-/home/deeg05/coding/mephi/pads/lab2/build/CMakeFiles/edit_cache.dir
-/home/deeg05/coding/mephi/pads/lab2/build/CMakeFiles/rebuild_cache.dir
-/home/deeg05/coding/mephi/pads/lab2/build/PATypes/CMakeFiles/test.dir
-/home/deeg05/coding/mephi/pads/lab2/build/PATypes/CMakeFiles/edit_cache.dir
-/home/deeg05/coding/mephi/pads/lab2/build/PATypes/CMakeFiles/rebuild_cache.dir
