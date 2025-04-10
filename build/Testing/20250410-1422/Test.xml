@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250410-1422-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.31.2"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="devc-mdsk"
+	OSRelease="6.12.4-arch1-1"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Mon, 09 Dec 2024 14:31:57 +0000"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ModelName="Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz"
+	ProcessorCacheSize="9216"
+	NumberOfLogicalCPU="6"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="31999"
+	TotalPhysicalMemory="15925"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="4299.97"
+	>
+	<Testing>
+		<StartDateTime>Apr 10 17:22 MSK</StartDateTime>
+		<StartTestTime>1744294941</StartTestTime>
+		<TestList/>
+		<EndDateTime>Apr 10 17:22 MSK</EndDateTime>
+		<EndTestTime>1744294941</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
